@@ -1,3 +1,3 @@
 default:
-	gcc main.c
+	gcc main.c allocator.c
 	./a.out
